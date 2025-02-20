@@ -14,7 +14,7 @@ To use `simple-firebase-storage-export`, follow the instructions below to set up
 npm install -g firebase-tools
 firebase login
 
-npm install firebase-admin
+npm install
 
 node downloadFirebaseFiles
 ```
