@@ -11,7 +11,7 @@ admin.initializeApp({
 const bucket = admin.storage().bucket();
 
 // Define the backup directory
-const backupDir = path.join(__dirname, "fire_backup");
+const backupDir = path.join(__dirname, "firebase_backup");
 
 // ✅ Ensure the backup directory exists
 if (!fs.existsSync(backupDir)) {
