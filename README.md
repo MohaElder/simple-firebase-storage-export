@@ -10,7 +10,7 @@ To use `simple-firebase-storage-export`, follow the instructions below to set up
 ```bash
 # Make sure you have serviceAccountKey correctly.
 
-# install and firebase on your computer if you haven't done so.
+# install and login firebase on your computer if you haven't done so.
 npm install -g firebase-tools
 firebase login
 
